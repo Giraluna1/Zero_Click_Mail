@@ -41,7 +41,7 @@ Only you need run the follow command:
 Like User is insanely easy set up
 Ask a question to your email list via email, copy the email z+<name_campaign>@zeroclickmail.com, and we will record all the answers in a Google spreadsheet.
 
-![Zero Click Mail](Demo-zecli.gif)
+![](https://j.gifs.com/gp5A8G.gif)
 
 
 # Contributors
