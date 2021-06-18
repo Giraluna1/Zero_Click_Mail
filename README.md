@@ -7,8 +7,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<a href="https://modoboa.org/en/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/987295336296271872/O304FViO_400x400.jpg" alt="Modoboa" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://images.prismic.io/www-static/49aa0a09-06d2-4bba-ad20-4bcbe56ac507_logo.png" alt="Digital Ocean" width="" height="40"/> </a>
+<a href="https://modoboa.org/en/" target="_blank"> <img src="https://i.ibb.co/XXj6rSr/modoboa-logo.png" alt="Modoboa" width="" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://i.ibb.co/D7bNj7K/digitalocean.png" alt="Digital Ocean" width="" height="40"/> </a>
  </p>
 
 # Getting Started
