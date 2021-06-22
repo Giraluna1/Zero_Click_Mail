@@ -80,7 +80,7 @@ Ask a question to your email list via email, copy the email z+<name_campaign>@ze
         </td>
         <td valign="top" align='center'>
           <a href="https://github.com/JulianMendezw" target="_blank">
-            <p>David Arias Fuentes</p>
+            <p>Julian Mendez</p>
             <img alt="github_page" src="https://avatars.githubusercontent.com/u/7661539?v=4" height="80" width="80"/>
           </a>
           <br />
